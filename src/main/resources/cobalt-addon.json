@@ -1,0 +1,7 @@
+{
+  "name": "Cobalt Recorder",
+  "version": "1.0.0",
+  "author": "Emilian",
+  "description": "Record and replay player actions with etherwarp navigation",
+  "main": "dev.recorder.RecorderAddon"
+}

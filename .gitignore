@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Compiled output
+out/
+
+# OS
+.DS_Store
+Thumbs.db

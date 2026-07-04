@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "cobalt-recorder",
+  "version": "${version}",
+  "name": "Cobalt Recorder",
+  "description": "Record and replay player actions for Hypixel SkyBlock",
+  "authors": ["Emilian"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.4",
+    "cobalt": "*"
+  }
+}
